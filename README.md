@@ -1,3 +1,7 @@
+> This repository is archived. We have decided to make all of our common code
+> development public. Please use https://github.com/FRCTeam2910/Common
+> instead.
+
 # FRC Team 2910 Common code repository
 
 This repository contains code that is shared between applications and robots
